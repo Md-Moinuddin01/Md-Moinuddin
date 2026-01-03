@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <h1 align="center">Hi 👋, I'm Md Moinuddin</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate tech enthusiast , mentor, and community contributer with interests in web3, Open source, Cloud Technology, and Ai-droven Solution. I enjoy building, learning, and guiding other in their tech journey.</h3>
 
 <div align="Right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/md_moinudd97689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/md_moinudd97689" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-moinuddin-90912a219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-moinuddin-90912a219/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/md-moinuddin-90912a219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/md-moinuddin-90912a219" height="30" width="40" /></a>
 <a href="https://fb.com/moinuddin1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moinuddin1117" height="30" width="40" /></a>
 <a href="https://instagram.com/moinuddin6651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moinuddin6651" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ajinavaedge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajinavaedge" height="30" width="40" /></a>
@@ -39,7 +39,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=md-moinuddin01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=md-moinuddin01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
 </div>
 
